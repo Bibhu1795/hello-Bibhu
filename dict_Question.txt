@@ -1,0 +1,65 @@
+# str = "I love india India is best"
+# di = {}
+# for i in str:
+#     if i in di:
+#          di[i] += 1
+#     else:
+#         di[i] = 1
+# print(di)
+
+# count the each word of occurence
+
+# str = "I love india india is best"
+
+# word = str.split()
+
+# di = {}
+# for i in word:
+#     if i in di:
+#         di[i] += 1
+#     else:
+#         di[i] = 1
+# print(di)
+
+# for a,b in word.items():
+#     if 
+    
+# str = "aa, bbb, aa,c,ddd,bb"
+# output = "2a,3b,2a,1c,3dd,2b"
+
+str = "aa,bbb,aa,c,ddd,bb"
+word = str.split()
+output= ""
+
+
+for i in str:
+     if len(i)==:
+
+SORT A LIST WITHOUT USING INBUILT FUNCTION 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# str = "abcc"
+
+    
